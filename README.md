@@ -6,4 +6,5 @@ Lung cancer is one of the most prevalent and deadly forms of cancer worldwide, p
 
 **Dataset Description :**
 
-![Dataset_description](https://github.com/user-attachments/assets/a38ba8b7-d071-47c1-95cf-e46efaa593d0)
+![EDA_Lung_Cancer_Dataset_Description](https://github.com/user-attachments/assets/d799fe55-6de0-4abc-b8c7-fd7618e62f99)
+
